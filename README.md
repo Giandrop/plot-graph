@@ -26,9 +26,9 @@ Ejemplo:
         B C
         C B
         
-Para ejecutar el programa:
+###Para ejecutar el programa:
 > **$python plot-graph.py _grafo_**
 
 
-Para más opciones:
+###Para más opciones:
 > **$python plot-graph.py -h**
