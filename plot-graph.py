@@ -1,13 +1,7 @@
 #! /usr/bin/python
 # coding=utf-8
 
-# 6ta Practica Laboratorio 
-# Complementos Matematicos I
-# Consigna: Implementar los siguientes metodos
-
-# Para descargar py-gnuplot: http://sourceforge.net/projects/gnuplot-py/files/latest/download?source=files
-
-#fixes:
+# fixes:
 # fuerza que separa los nodos ahora es independiente de la temperatura
 
 import argparse
